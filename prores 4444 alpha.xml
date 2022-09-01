@@ -1,0 +1,3 @@
+<profiles version="1">
+ <profile category="Custom_Profiles" name="prores_4444_Alpha" extension="mov" defaultaudioquality="0" defaultaudiobitrate="0" args="f=mov vcodec=prores_ks qscale=%quality acodec=pcm_s16le vprofile=4444 vendor=apl0 pix_fmt=yuva444p10le mlt_image_format=rgba vf= unpremultiply=inplace=1" defaultquality="0" defaultbitrate="0"/>
+</profiles>
